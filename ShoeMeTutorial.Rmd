@@ -2,7 +2,8 @@
 title: "Show Me Tutorial"
 author: "R Lockwood"
 date: "2022-08-23"
-output: html_document
+output:
+  github_document
 ---
 
 ```{r setup, include=FALSE}
